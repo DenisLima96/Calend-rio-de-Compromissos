@@ -9,9 +9,9 @@ App feito com React, Next.js e TypeScript. Gerencia eventos com CRUD, login via 
 - Eventos de dia inteiro  
 - Cores customizáveis  
 - Busca instantânea  
-- Login e cadastro por e-mail (Supabase Auth)  
-- Dados salvos no Supabase  
-- Notificações simuladas (email real em breve)  
+- Login e cadastro por e-mail ( Em breve)  
+- Dados salvos no Firebase
+- Notificações simuladas (Em breve)  
 
 ## Tecnologias
 
